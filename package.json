@@ -1,0 +1,25 @@
+{
+  "name": "nodeweather",
+  "version": "1.0.0",
+  "description": "A node app to get the weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielalexvega/NodeWeather.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Daniel Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielalexvega/NodeWeather/issues"
+  },
+  "homepage": "https://github.com/danielalexvega/NodeWeather#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
